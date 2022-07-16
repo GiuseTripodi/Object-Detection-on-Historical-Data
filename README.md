@@ -1,4 +1,4 @@
-# Scene Understanding & Surveillance (SUS) 2022 - Template
+# Object Detcion On Historical Data
 
 This archive contains the work for the lesson Scene Understanding & Surveillance (SUS) 2022. We detect various vehicles in historical film shots by using the three following methodologies as basis:
 
@@ -21,7 +21,7 @@ To run the notebook, proceed as follows
 1. clone the repository on your device
 2. open each notebook on [Google Colab](https://research.google.com/colaboratory/)
 3. copy the following directory (that you can find on the repository) to your [Google Drive](https://drive.google.com/drive/my-drive) (directories must be placed under the "MyDrive" directory)
-    - [**dataset**](dataset): For inference the dataset on GitHub is fine, but if you want to do Trainining and Testing you have to load the complete datast. The correct folder structure is specified below. 
+    - [**dataset**](dataset): For inference the dataset on GitHub is fine, but if you want to do Trainining and Testing you have to load the complete datast. The correct folder structure is specified below. (Unzip the folder before copying it)
     - [**configuration_file_SUS_project**](configuration_file_SUS_project)
     - WEIGHTS: To make inference with the pre-trained weights, you must also add the directory containing all weights. The structure this directory should have is specified in the notebooks.
 
